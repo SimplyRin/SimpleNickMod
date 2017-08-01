@@ -13,3 +13,4 @@ Hypixel で使えるクライアント側ニックネームMod
 # Download
 https://www.dropbox.com/s/rbi1shcz6kwtkvv/SimpleNickMod-1.0.jar?dl=1
 - ウイルスチェック済みです。
+- ファイルの二次配布、直リンクはやめてください。
