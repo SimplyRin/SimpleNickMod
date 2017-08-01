@@ -16,6 +16,10 @@ Hypixel で使えるクライアント側ニックネームMod
 - /nickrank &b[MVP] : MVP
 - /nickrank &b[MVP&c+&b] : MVP+ ( + の前の c を変えることで MVP+ の色がわかります。)
 
+# Thanks!
+動画で紹介されました！
+- Forest9013さん: https://youtu.be/C1lZJbIsP6o
+
 # Download
 https://www.dropbox.com/s/rbi1shcz6kwtkvv/SimpleNickMod-1.0.jar?dl=1
 - ウイルスチェック済みです。
