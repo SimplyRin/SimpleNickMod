@@ -10,6 +10,12 @@ Hypixel で使えるクライアント側ニックネームMod
 - /nick <reset|clear> : ニックネームをクリアし、元に戻します。
 - /nickrank <prefix> : ランクのプレフィックス(例: [MVP+] などを設定します。& でカラーコードの指定使用が可能です。)
 
+# NickRank
+- /nickrank &a[VIP] : VIP
+- /nickrank &a[VIP&6+&a] : VIP+
+- /nickrank &b[MVP] : MVP
+- /nickrank &b[MVP&c+&b] : MVP+ ( + の前の c を変えることで MVP+ の色がわかります。)
+
 # Download
 https://www.dropbox.com/s/rbi1shcz6kwtkvv/SimpleNickMod-1.0.jar?dl=1
 - ウイルスチェック済みです。
