@@ -21,6 +21,6 @@ Hypixel で使えるクライアント側ニックネームMod
 - Forest9013さん: https://youtu.be/C1lZJbIsP6o
 
 # Download
-https://www.dropbox.com/s/rbi1shcz6kwtkvv/SimpleNickMod-1.0.jar?dl=1
+https://github.com/SimplyRin/SimpleNickMod/raw/master/jar/SimpleNickMod-1.0.jar
 - ウイルスチェック済みです。
 - ファイルの二次配布、直リンクはやめてください。
