@@ -38,7 +38,7 @@ public class NickRank extends CommandBase {
 		String prefix = args[0];
 
 		NickManager.setPrefix(prefix);
-		ChatHandler.send(VanillaNickMod.getPrefix() + "&aYou are nicked rank is " + prefix + "!");
+		ChatHandler.send(VanillaNickMod.getPrefix() + "&aYou are nicked rank is " + prefix + "&a!");
 	}
 
 }

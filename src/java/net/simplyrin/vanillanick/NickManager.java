@@ -32,8 +32,7 @@ public class NickManager {
 	}
 
 	public static void onEvent(ClientChatReceivedEvent event) {
-		if(NickManager.enableNick == Boolean.valueOf(true)) {
-
+		if(NickManager.enableNick) {
 			String message = event.message.getFormattedText();
 
 			message = message.replaceAll("\u00a7", "&");
@@ -46,13 +45,13 @@ public class NickManager {
 
 				event.setCanceled(true);
 
-				if(message.toLowerCase().contains("simplyrin")) {
-					ChatHandler.send(VanillaNickMod.getPrefix() + "&cThis name is not allowed!");
-					return;
-				}
-
 				message = message.replaceAll("&r", "");
 				message = message.replace("&r", "");
+
+				if(message.equals("&e" + VanillaNickMod.getPlayer().getName() + " joined.")) {
+					ChatHandler.send("&e" + message.replaceAll(p.getName(), nick));
+					return;
+				}
 
 				if(message.contains("&a[VIP] " + VanillaNickMod.getPlayer().getName())) {
 					message = message.replace("&a[VIP] " + p.getName(), prefix + " " + nick);
@@ -160,6 +159,13 @@ public class NickManager {
 				if(message.contains("&b[MVP&0+&b] " + VanillaNickMod.getPlayer().getName())) {
 					message = message.replace("&b[MVP&0+&b] " + p.getName(), prefix + " " + nick);
 					ChatHandler.send(message);
+					return;
+				}
+
+				// Default
+				if(message.contains(":")) {
+					message = message.replace(VanillaNickMod.getPlayer().getName(), prefix + " " + nick);
+					ChatHandler.send(message.replaceAll("&7", "&f"));
 					return;
 				}
 

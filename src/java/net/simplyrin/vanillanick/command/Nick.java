@@ -37,6 +37,11 @@ public class Nick extends CommandBase {
 
 		String nick = args[0];
 
+		if(nick.equalsIgnoreCase("SimplyRin") || nick.toLowerCase().contains("simplyrin")) {
+			ChatHandler.send(VanillaNickMod.getPrefix() + "&cThis name is not allowed!");
+			return;
+		}
+
 		if(nick.equalsIgnoreCase("reset") || nick.equalsIgnoreCase("clear")) {
 			NickManager.enableNick(false);
 			ChatHandler.send(VanillaNickMod.getPrefix() + "&aYour nick has been reset!");
