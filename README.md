@@ -20,16 +20,22 @@ Hypixel で使えるクライアント側ニックネームMod
 
 # Thanks!
 動画で紹介されました！
-- Forest9013さん: https://youtu.be/C1lZJbIsP6o
+- Forest9013さん: 
+  - https://youtu.be/C1lZJbIsP6o
+  - https://youtu.be/t_-51hzwSxs
 - エルフのチャンネル!さん: https://youtu.be/h1Lsy4jJ2Iw
+- 実況者ダックさん: https://youtu.be/axcrnz5_n5o
 
 # Update
 Version 1.1:
 - デフォルトランクでもNickできるようになりました。
 - NickPrefix を設定した時最後の ! マークがNickRankで設定した色になる問題を修正。
 - Hypixel サーバーにログインした時に出てくる "<自分の名前> joined." の文字がNickRankで設定した色になる問題を修正。
+Version 1.2:
+- Blacklist機能を実装しました。(多分使うことはないだろう)
 
 # Download
-https://github.com/SimplyRin/SimpleNickMod/raw/master/jar/SimpleNickMod-1.2.jar
+
+ダウンロードはこちら: <a href="https://github.com/SimplyRin/SimpleNickMod/raw/master/jar/SimpleNickMod-1.2.jar">SimpleNickMod v1.2.jar<a/><br>
 - ウイルスチェック済みです。
 - ファイルの二次配布、直リンクはやめてください。
