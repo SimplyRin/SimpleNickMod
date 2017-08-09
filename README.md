@@ -21,6 +21,7 @@ Hypixel で使えるクライアント側ニックネームMod
 # Thanks!
 動画で紹介されました！
 - Forest9013さん: https://youtu.be/C1lZJbIsP6o
+- エルフのチャンネル!さん: https://youtu.be/h1Lsy4jJ2Iw
 
 # Update
 Version 1.1:
