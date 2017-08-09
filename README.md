@@ -30,6 +30,6 @@ Version 1.1:
 - Hypixel サーバーにログインした時に出てくる "<自分の名前> joined." の文字がNickRankで設定した色になる問題を修正。
 
 # Download
-https://github.com/SimplyRin/SimpleNickMod/raw/master/jar/SimpleNickMod-1.1.jar
+https://github.com/SimplyRin/SimpleNickMod/raw/master/jar/SimpleNickMod-1.2.jar
 - ウイルスチェック済みです。
 - ファイルの二次配布、直リンクはやめてください。
