@@ -31,6 +31,7 @@ Version 1.1:
 - デフォルトランクでもNickできるようになりました。
 - NickPrefix を設定した時最後の ! マークがNickRankで設定した色になる問題を修正。
 - Hypixel サーバーにログインした時に出てくる "<自分の名前> joined." の文字がNickRankで設定した色になる問題を修正。
+
 Version 1.2:
 - Blacklist機能を実装しました。(多分使うことはないだろう)
 
