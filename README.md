@@ -19,12 +19,13 @@ Hypixel で使えるクライアント側ニックネームMod
 - /nickrank &b[MVP&c+&b] : MVP+ ( + の前の c を変えることで MVP+ の色がわかります。)
 
 # Thanks!
-動画で紹介されました！
+動画で紹介されました！ (勝手に追加させてもらってます。削除申請はメールアドレスの方にお願いします。)
 - Forest9013さん: 
   - https://youtu.be/C1lZJbIsP6o
   - https://youtu.be/t_-51hzwSxs
 - エルフのチャンネル!さん: https://youtu.be/h1Lsy4jJ2Iw
 - 実況者ダックさん: https://youtu.be/axcrnz5_n5o
+- 天然バカさくやさん: https://youtu.be/o9Xd0pCwqa8
 
 # Update
 Version 1.1:
