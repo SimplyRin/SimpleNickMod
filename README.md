@@ -26,6 +26,7 @@ Hypixel で使えるクライアント側ニックネームMod
 - エルフのチャンネル!さん: https://youtu.be/h1Lsy4jJ2Iw
 - 実況者ダックさん: https://youtu.be/axcrnz5_n5o
 - 天然バカさくやさん: https://youtu.be/o9Xd0pCwqa8
+- かぴさん: https://youtu.be/QOvmDHMjS3A
 
 # Update
 Version 1.1:
