@@ -39,6 +39,6 @@ Version 1.2:
 
 # Download
 
-ダウンロードはこちら: <a href="https://github.com/SimplyRin/SimpleNickMod/raw/master/jar/SimpleNickMod-1.2.jar">SimpleNickMod v1.2.jar<a/><br>
+ダウンロードはこちら: <a href="https://github.com/SimplyRin/SimpleNickMod/raw/master/jar/SimpleNickMod-1.1.jar">SimpleNickMod v1.1.jar<a/><br>
 - ウイルスチェック済みです。
 - ファイルの二次配布、直リンクはやめてください。
