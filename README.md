@@ -40,6 +40,8 @@ Version 1.2:
 
 # Download
 
+MVP++ はこちら: <a href="https://store.hypixel.net/category/1074845">Hypixel Store<a/><br>
+
 ダウンロードはこちら: <a href="https://goo.gl/iDpFUa">SimpleNickMod v1.1.jar<a/><br>
 - ウイルスチェック済みです。
 - ファイルの二次配布、直リンクはやめてください。
