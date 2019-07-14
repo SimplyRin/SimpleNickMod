@@ -23,7 +23,7 @@ Hypixel で使えるクライアント側ニックネームMod
 - Forest9013さん: 
   - https://youtu.be/C1lZJbIsP6o
   - https://youtu.be/t_-51hzwSxs
-- エルフのチャンネル!さん: https://youtu.be/h1Lsy4jJ2Iw
+- ~~エルフのチャンネル!さん: https://youtu.be/h1Lsy4jJ2Iw~~
 - 実況者ダックさん: https://youtu.be/axcrnz5_n5o
 - 天然バカさくやさん: https://youtu.be/o9Xd0pCwqa8
 - かぴさん: https://youtu.be/QOvmDHMjS3A
